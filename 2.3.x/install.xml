@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modification>
+  <name>Information Panel for notification</name>
+  <code>infopanel</code>
+  <version>1.0</version>
+  <author>Vitalii Potapenko</author>
+  <link>mailto:edytor49@gmail.com</link>
+<!--  <file path="#">-->
+<!--	<operation>-->
+<!--      <search index="0"><![CDATA[#]]></search>-->
+<!--      <add position="#"><![CDATA[-->
+<!--      #-->
+<!--	  ]]></add>-->
+<!--    </operation>-->
+<!--  </file>-->
+</modification>
